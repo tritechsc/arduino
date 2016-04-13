@@ -1,0 +1,2 @@
+Here is a link the Adafruit Neo Pixel github repo
+https://github.com/tritechsc/Adafruit_NeoPixel
