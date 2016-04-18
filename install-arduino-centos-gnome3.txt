@@ -17,6 +17,7 @@ step 3:  Create a Gnome 3 Desktop item
 create a file in cd /home/username/.local/share/applications/
 called arduino.desktop
 Add this code to the file named arduino.desktop
+************************************************************************
 [Desktop Entry]
 Type=Application
 Terminal=false
