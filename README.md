@@ -9,5 +9,5 @@ http://www.businessinsider.com/adafruit-industries-limor-fried-on-bootstrapping-
 
 
 https://www.youtube.com/watch?v=blJNLTuVIRQ
-
+Adafruit's Samsung SM481 & SM482 in action!
 https://blog.adafruit.com/2016/04/15/turn-a-piece-of-paper-into-a-diy-speaker/
