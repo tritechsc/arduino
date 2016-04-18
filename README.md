@@ -6,6 +6,8 @@ https://github.com/tritechsc/Adafruit_NeoPixel
 Limor Fried
 <br />http://www.businessinsider.com/adafruit-industries-limor-fried-on-bootstrapping-a-startup-2015-8
 <br /> <img src ="https://github.com/tritechsc/arduino/blob/master/img/lady_ada_building.jpg" width = "400">
+<img src ="https://github.com/tritechsc/arduino/blob/master/img/lady_ada_machine.jpg" width = "400">
+<img src ="https://github.com/tritechsc/arduino/blob/master/img/lady_ada_neo.jpg" width = "400">
 
 <br />Adafruit's Samsung SM481 & SM482 in action!
 <br />https://www.youtube.com/watch?v=blJNLTuVIRQ
