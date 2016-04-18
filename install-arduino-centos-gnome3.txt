@@ -1,6 +1,6 @@
 
 step 0:  Download Arduino Hourly Build and extract it to the desktop. 
-
+http://www.arduino.cc/en/main/software
 step 1:  Remove everything in /opt/arduino/
 			#rm -fR /opt/arduino/*
 step 2: Copy the files from the desktop  to /opt/arduino
