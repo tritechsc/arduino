@@ -9,7 +9,7 @@ Limor Fried
 <br />Adafruit's Samsung SM481 & SM482 in action!
 <br />https://www.youtube.com/watch?v=blJNLTuVIRQ
 
-https://github.com/tritechsc/arduino/blob/master/img/lady_ada_building.jpg
+<img src ="https://github.com/tritechsc/arduino/blob/master/img/lady_ada_building.jpg" width = "400">
 
 
 <br /> https://blog.adafruit.com/2016/04/15/turn-a-piece-of-paper-into-a-diy-speaker/
