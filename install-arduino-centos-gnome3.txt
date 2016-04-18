@@ -1,5 +1,5 @@
 
-step 0:  Download Arduino Nightly Build and extract it to the desktop. 
+step 0:  Download Arduino Hourly Build and extract it to the desktop. 
 
 step 1:  Remove everything in /opt/arduino/
 			#rm -fR /opt/arduino/*
