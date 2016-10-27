@@ -26,14 +26,16 @@ https://www.arduino.cc/en/Main/Software
 - We will extract this and put it in an /opt/arduino directory
 
 - Add yourself to the dialout group
-As a normal user type groups
+  As a normal user type groups
 $ groups
+cwc dialout cdrom floppy sudo audio dip video plugdev netdev lpadmin scanner bluetooth
+
 Become root su then
 dd your self to the dialout group 
 as follows:
 # usermod -a -G dialout cwc
 cwc is my username
-
+- Reboot
 Above text written by cwc cwcoleman
 
 </h1>
