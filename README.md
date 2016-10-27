@@ -2,8 +2,8 @@
 <head><title>  arduino </title>
 <style>
 pre{
-background-ground-color:#000;
-color:#fff;
+background-ground-color:#ddd;
+color:#000;
 
 }
 </style>
