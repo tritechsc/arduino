@@ -1,3 +1,17 @@
+<html>
+<head><title>  arduino </title>
+<style>
+pre{
+background-ground-color:#000;
+color:#fff;
+
+}
+</style>
+</head>
+
+<body>
+
+
 # arduino
 Prior to using the Adafruit Neo-Pixel download the library.
 https://github.com/tritechsc/Adafruit_NeoPixel
@@ -14,4 +28,15 @@ Limor Fried
 
 <br /> https://blog.adafruit.com/2016/04/15/turn-a-piece-of-paper-into-a-diy-speaker/
 
+<hr />
+<pre>
+<h1>
+Install on Debian Jessie 161027 cwcoleman
+***********************************************
+-  apt-get install libcanberra-gtk-module
+- Install the most resent version of jdk and jre
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
+
+</h1>
+</pre>
