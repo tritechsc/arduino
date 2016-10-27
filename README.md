@@ -1,17 +1,3 @@
-<html>
-<head><title>  arduino </title>
-<style>
-pre{
-background-ground-color:#ddd;
-color:#000;
-
-}
-</style>
-</head>
-
-<body>
-
-
 # arduino
 Prior to using the Adafruit Neo-Pixel download the library.
 https://github.com/tritechsc/Adafruit_NeoPixel
