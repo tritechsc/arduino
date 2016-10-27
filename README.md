@@ -27,7 +27,6 @@ Limor Fried
 <br />https://www.youtube.com/watch?v=blJNLTuVIRQ
 
 <br /> https://blog.adafruit.com/2016/04/15/turn-a-piece-of-paper-into-a-diy-speaker/
-
 <hr />
 <pre>
 <h1>
@@ -36,6 +35,11 @@ Install on Debian Jessie 161027 cwcoleman
 -  apt-get install libcanberra-gtk-module
 - Install the most resent version of jdk and jre
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
+- Download the 64 bit version of Arduino
+https://www.arduino.cc/en/Main/Software
+- We will extract this and put it in an /opt/arduino directory
+
+- Add yourself to the dialout group
 
 
 </h1>
