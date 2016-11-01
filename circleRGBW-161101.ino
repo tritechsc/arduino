@@ -61,7 +61,7 @@ void cw(int  r,int g,int b,int w, int delayVal){
 
 int j;
 
-  for(j = 15; j <= 0 ; j++){
+  for(j = 15; j>= 0 ; j--){
           strip.setPixelColor(j, strip.Color(r,g,b,w ));
           delay(delayVal);
            strip.show();         
