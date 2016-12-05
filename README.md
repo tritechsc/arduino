@@ -1,6 +1,8 @@
 # arduino
-Prior to using the Adafruit Neo-Pixel download the library.
-https://github.com/tritechsc/Adafruit_NeoPixel
+Prior to using the Adafruit Neo-Pixel download the library.  Then add it to your libararies using the Arduino IDE
+<h1>
+https://github.com/adafruit/Adafruit_NeoPixel
+</h1>
 <br /> Add the Adafruit_NeoPixel.zip file  to your Arduino>Sketch>Include Library>Add .ZIP Library...
 <hr />
 Limor Fried
