@@ -1,5 +1,8 @@
 # arduino
 Prior to using the Adafruit Neo-Pixel download the library.  Then add it to your libararies using the Arduino IDE
+IEIK UNO
+https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Delectronics&field-keywords=IEIK+UNO+
+
 <h1>
 https://github.com/adafruit/Adafruit_NeoPixel
 </h1>
