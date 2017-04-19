@@ -21,29 +21,3 @@ Limor Fried
 
 <br /> https://blog.adafruit.com/2016/04/15/turn-a-piece-of-paper-into-a-diy-speaker/
 <hr />
-<pre>
-<h1>
-Install on Debian Jessie 161027 cwcoleman
-***********************************************
--  apt-get install libcanberra-gtk-module
-- Install the most resent version of jdk and jre
-http://www.oracle.com/technetwork/java/javase/downloads/index.html
-- Download the 64 bit version of Arduino
-https://www.arduino.cc/en/Main/Software
-- We will extract this and put it in an /opt/arduino directory
-
-- Add yourself to the dialout group
-  As a normal user type groups
-$ groups
-cwc dialout cdrom floppy sudo audio dip video plugdev netdev lpadmin scanner bluetooth
-
-Become root su then
-dd your self to the dialout group 
-as follows:
-# usermod -a -G dialout cwc
-cwc is my username
-- Reboot
-Above text written by cwc cwcoleman
-
-</h1>
-</pre>
