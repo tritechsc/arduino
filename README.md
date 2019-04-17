@@ -1,8 +1,13 @@
-# arduino
+ARDUNIO harware:  https://www.arduino.cc/ (CHECK PRICES)
+AMAZON : https://www.amazon.com/Elegoo-EL-CB-001-ATmega328P-ATMEGA16U2-Arduino/dp/B01EWOE0UU/ref=sr_1_12?keywords=ARDUINO&qid=1555501942&s=electronics&sr=1-12
+
+Research prices before purchasing.
+
+ADAFRUIT NEOPIXEL HARDWARE:
+https://www.adafruit.com/category/168
+
+# arduino NEOPIXEL software
 Prior to using the Adafruit Neo-Pixel download the library.  Then add it to your libararies using the Arduino IDE
-<br />IEIK UNO
-https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Delectronics&field-keywords=IEIK+UNO+
-ADAFRUIT NEO PIXELS
 https://www.adafruit.com/category/168
 
 <h1>
