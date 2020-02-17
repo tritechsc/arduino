@@ -14,7 +14,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg14372"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="arduino-uss-11-12-svg.svg">
   <defs
      id="defs14366" />
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
+     inkscape:zoom="1.4"
      inkscape:cx="342.1406"
      inkscape:cy="194.70684"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="978"
+     inkscape:window-height="986"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="36"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata14369">
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,7 +71,7 @@
            height="187.85715"
            x="351.78571"
            y="869.66254" /></flowRegion><flowPara
-         id="flowPara19945"></flowPara></flowRoot>    <flowRoot
+         id="flowPara19945" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot19947"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -87,10 +87,10 @@
            y="855.37683"
            style="font-size:18.66666603px" /></flowRegion><flowPara
          id="flowPara19957">ARDUINO UNO &lt;-&gt; HC-SR04</flowPara><flowPara
-         id="flowPara19963">5V                      &lt;-&gt; VCC</flowPara><flowPara
-         id="flowPara19965">5V                      &lt;-&gt; GND</flowPara><flowPara
-         id="flowPara19967">PIN 11                &lt;-&gt; Trig</flowPara><flowPara
-         id="flowPara34789">PIN 12                &lt;-&gt; Echo</flowPara></flowRoot>    <flowRoot
+         id="flowPara19963">5V                    &lt;-&gt; VCC</flowPara><flowPara
+         id="flowPara19965">GND                 &lt;-&gt; GND</flowPara><flowPara
+         id="flowPara19967">PIN 11              &lt;-&gt; Trig</flowPara><flowPara
+         id="flowPara34789">PIN 12              &lt;-&gt; Echo</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot31197"
        style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -100,7 +100,7 @@
            height="668.72101"
            x="-166.67517"
            y="436.12103" /></flowRegion><flowPara
-         id="flowPara31203"></flowPara></flowRoot>    <g
+         id="flowPara31203" /></flowRoot>    <g
        transform="matrix(0.35277719,0,0,0.35277719,3.5324305,198.9077)"
        partID="854112360"
        id="g28668"
